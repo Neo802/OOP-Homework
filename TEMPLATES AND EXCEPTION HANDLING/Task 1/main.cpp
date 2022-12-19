@@ -9,8 +9,8 @@ template <typename T> T Sum(T x, T y) {
 
 int main()
 {
-    float a, b;
-    double c, d;
+    int a, b;
+    float c, d;
 
     cin >> a >> b >> c >> d;
 
