@@ -1,4 +1,4 @@
-# OOP-Homework 💻
+# OOP - Homework 💻
 
 TEMPLATES AND EXCEPTION HANDLING
 - Task #1: Write a program in CPP to find the sum of two integer numbers and
